@@ -39,7 +39,7 @@ body{
     text-transform: uppercase;
   }
   .banner{
-    background-image: url("https://static.wixstatic.com/media/db1d19_841eb8ef39c847a798336273adc89a8e~mv2.jpeg/v1/fill/w_1024,h_485,al_c,q_85,enc_auto/db1d19_841eb8ef39c847a798336273adc89a8e~mv2.jpeg");
+    background-image: url("./rydercoverpage.gif");
     background-position: center top;
     background-size: cover;
     border-bottom: 1px solid #dddddd;
