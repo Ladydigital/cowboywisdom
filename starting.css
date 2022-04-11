@@ -96,6 +96,7 @@ body{
   .description{
     display: inline-block;
     width: 70%;
+    padding: 80px 0px;
   }
   .activities-panel{
     margin-bottom: 40px;
