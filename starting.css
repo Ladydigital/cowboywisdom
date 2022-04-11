@@ -124,9 +124,6 @@ body{
     text-transform: uppercase;
     margin: 5px;
   }
-.pierce {
-    background-image: url('./pierce.png');
-}
   .footer{
     background-color: #2176FF;
     padding: 30px;
