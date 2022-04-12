@@ -137,6 +137,9 @@ body{
     font-weight: 100;
     letter-spacing: 2px;
   }
+.pierce {
+    background-image: url("./pierce.gif");
+}
   
   a {
     cursor: default;
