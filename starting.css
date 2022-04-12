@@ -137,10 +137,6 @@ body{
     font-weight: 100;
     letter-spacing: 2px;
   }
-.pierce {
-    background-image: url("./pierce.png");
-}
-  
   a {
     cursor: default;
     text-decoration-line: none;
