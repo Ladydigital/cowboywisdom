@@ -56,8 +56,3 @@ a {
     font-size: 40px;
     transition: font-size .1s;
   }
-function play1() { 
-    var frame = document.getElementById("youtube-frame");
-    frame.innerHTML += "<iframe width='560' height='315' src='https://www.youtube.com/watch?v=jLhpFVIEFFA' frameborder='0' allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>";
-  }
-  
