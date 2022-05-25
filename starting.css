@@ -115,8 +115,7 @@ body{
     box-sizing: border-box;
     width: 240px;
     height: 200px;
-    display: flex;
-    align-items: center;
+    align-items: left;
     justify-content: center;
     color: #fff;
     font-family: 'Amatic SC',sans-serif;
@@ -124,6 +123,8 @@ body{
     text-align: center;
     text-transform: uppercase;
     margin: 5px;
+    display: flex;
+    flex-direction: column;
   }
   .footer{
     background-color: #2176FF;
@@ -166,9 +167,7 @@ body{
     text-decoration: none;
     text-transform: uppercase;
     cursor: pointer;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
+
   }
   .btn:hover {
    background-color: #fff;
