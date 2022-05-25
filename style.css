@@ -68,7 +68,7 @@ a {
 }
 @media only screen and (max-width: 470px) {
   .btn {
-    display: flex; 
+    justify-content: left; 
 
   }
 
