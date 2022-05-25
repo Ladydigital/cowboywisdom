@@ -23,6 +23,7 @@ a {
     text-decoration: none;
     text-transform: uppercase;
     cursor: pointer;
+    display: flex; 
   }
   .btn:hover {
    background-color: #fff;
