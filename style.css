@@ -68,8 +68,7 @@ a {
 }
 @media only screen and (max-width: 470px) {
   .btn {
-    width: 100%;
-    margin: 0;
+    object-fit: contain;
   }
   footer nav {
     display: none;
