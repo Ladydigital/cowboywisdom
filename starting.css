@@ -109,6 +109,7 @@ body{
   }
   .activities-panel h2 {
     width: 100%;
+    display: block;
   }
   .activity{
     background-color: #2176FF;
@@ -201,8 +202,3 @@ body{
     font-size: 40px;
     transition: font-size .1s;
   }
-}
-@media only screen and (max-width: 600px) {
-    .activities-panel {
-        width: 400px;
-    }
