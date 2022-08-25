@@ -201,4 +201,24 @@ body{
     font-size: 40px;
     transition: font-size .1s;
   }
-  
+}
+@media only screen and (min-width: 320px) and (max-width: 480px), (orientation: portrait) {
+    /* CSS ruleset */
+}
+  .btn .activity { 
+    width: 95%;
+  }
+@media only screen and (min-resolution: 150dpi) {
+  .content {background-image: url("https://content.codecademy.com/courses/learn-links-and-buttons/project/mountain1.jpg");
+  }
+}
+@media only screen and (max-resolution: 150dpi) and  (max-width: 480px) {
+.activities-panel h2 {
+  font-size: 20px;
+  }
+}
+@media only screen and (min-width: 768px) and (max-width: 1024px) and (orientation: landscape) {
+  .btn, .activities-panel h2 {
+  float: left;
+    width: 20em;
+}
