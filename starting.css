@@ -107,6 +107,7 @@ body{
     flex-wrap: wrap;
     justify-content: center;
     position: relative; 
+    min-width: 100px;
       
   }
   .activities-panel h2 {
