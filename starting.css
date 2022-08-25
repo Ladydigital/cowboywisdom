@@ -203,6 +203,6 @@ body{
   }
 }
 @media only screen and (max-width: 600px) {
-    #ranking-button {
+    .activities-panel {
         width: 400px;
     }
