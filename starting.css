@@ -127,6 +127,7 @@ body{
     margin: 5px;
     display: flex;
     flex-direction: column;
+    width: 100%;
   }
   .footer{
     background-color: #2176FF;
@@ -203,17 +204,3 @@ body{
     font-size: 40px;
     transition: font-size .1s;
   }
-
-
-/*Footer*/
-@media only screen and (max-width: 600px){
-    header{
-        z-index: 1;
-    }
-    header ul li{
-        font-size: 10px;
-    }
-    header img {
-        height: 25px;
-    }
-}
