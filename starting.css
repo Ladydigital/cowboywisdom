@@ -106,10 +106,11 @@ body{
     align-items: flex-start;
     flex-wrap: wrap;
     justify-content: center;
+    position: relative; 
+      
   }
   .activities-panel h2 {
     width: 100%;
-    display: block;
   }
   .activity{
     background-color: #2176FF;
