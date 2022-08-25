@@ -23,6 +23,8 @@ a {
     text-decoration: none;
     text-transform: uppercase;
     cursor: pointer;
+    height: 100%;
+    width: 100%
   }
   .btn:hover {
    background-color: #fff;
