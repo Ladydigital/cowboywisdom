@@ -106,8 +106,6 @@ body{
     align-items: flex-start;
     flex-wrap: wrap;
     justify-content: center;
-    position: relative; 
-      
   }
   .activities-panel h2 {
     width: 100%;
@@ -116,7 +114,7 @@ body{
     background-color: #2176FF;
     box-sizing: border-box;
     width: 240px;
-    height: 2000px;
+    height: 200px;
     align-items: left;
     justify-content: center;
     color: #fff;
@@ -126,7 +124,7 @@ body{
     text-transform: uppercase;
     margin: 5px;
     display: flex;
-    flex-direction: row;
+    flex-direction: column;
   }
   .footer{
     background-color: #2176FF;
@@ -196,10 +194,11 @@ body{
   .activity:hover {
     background-color: #fff;
     color: #5495ff;
-    transition: color .1s ease-in;
-    background-color: .1s ease-in;
+    transition: color .1s ease-in,
+    background-color .1s ease-in;
   }
   .activity:active {
     font-size: 40px;
     transition: font-size .1s;
   }
+  
