@@ -170,12 +170,13 @@ body{
     text-decoration: none;
     text-transform: uppercase;
     cursor: pointer;
+    margin-right: 50px;
 
   }
   .btn:hover {
    background-color: #fff;
     color: #5495ff;
-    transition: color .1s ease-in,
+    transition: color .1s ease-in;
     background-color: .1s ease-in;
   }
   .btn:active {
@@ -192,7 +193,8 @@ body{
     padding: 14px;
     text-decoration: none;
     text-transform: uppercase;
-    cursor: pointer;  
+    cursor: pointer;
+    margin-right: 50px;
   }
   .activity:hover {
     background-color: #fff;
