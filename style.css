@@ -53,8 +53,8 @@ a {
   .activity:hover {
     background-color: #fff;
     color: #5495ff;
-    transition: color .1s ease-in,
-    background-color .1s ease-in;
+    transition: color .1s ease-in;
+    background-color: .1s ease-in;
   }
   .activity:active {
     font-size: 40px;
