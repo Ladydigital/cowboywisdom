@@ -39,7 +39,7 @@ body{
     text-transform: uppercase;
   }
   .banner{
-    background-image: url("./rydercoverpage.gif");
+    background-image: url("../rydercoverpage.gif");
     background-position: center top;
     background-size: cover;
     border-bottom: 1px solid #dddddd;
