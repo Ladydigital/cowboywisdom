@@ -170,7 +170,6 @@ body{
     text-decoration: none;
     text-transform: uppercase;
     cursor: pointer;
-    margin-right: 50px;
 
   }
   .btn:hover {
@@ -194,7 +193,6 @@ body{
     text-decoration: none;
     text-transform: uppercase;
     cursor: pointer;
-    margin-right: 50px;
   }
   .activity:hover {
     background-color: #fff;
