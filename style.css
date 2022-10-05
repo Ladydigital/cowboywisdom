@@ -28,13 +28,13 @@ a {
   .btn:hover {
    background-color: #fff;
     color: #5495ff;
-    transition: color .1s ease-in,
-    background-color .1s ease-in;
+    transition: color .1s ease-in, background-color .1s ease-in;
   }
   .btn:active {
     margin-top: 5px;
     color: black;
     box-shadow: 0px 0px;
+    transition: font-size .1s ease-in-out;
   }
   .activity {
    background-color: #2176FF;
