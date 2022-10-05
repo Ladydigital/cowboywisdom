@@ -103,11 +103,10 @@ body{
     padding: 80px 0px;
     text-align: center;
     display: flex;
-    align-items: flex-start;
+    align-items: space-around;
     flex-wrap: wrap;
     justify-content: center;
     position: relative; 
-      
   }
   .activities-panel h2 {
     width: 100%;
